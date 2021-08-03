@@ -1,1 +1,1 @@
-# KIP7Token
+# WBCIA_KIP7Token_source
